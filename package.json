@@ -4,7 +4,7 @@
 	"description": "Common code for invc",
 	"main": "lib/index.js",
 	"types": "lib/index.d.ts",
-	"license": "MIT",
+	"license": "Commercial",
 	"files": [
 		"/lib"
 	],
